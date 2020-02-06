@@ -1,11 +1,11 @@
 {
   "name": "chainpoint-js",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Chainpoint V4 API client",
   "main": "dist/bundle.js",
   "author": "Jason Bukowski <jason@tierion.com>",
   "license": "Apache-2.0",
-  "repository": "https://github.com/chainpoint/chainpoint-client-js",
+  "repository": "https://github.com/chainpoint/chainpoint-js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "eslint-check": "eslint --print-config . | eslint-config-prettier-check",
